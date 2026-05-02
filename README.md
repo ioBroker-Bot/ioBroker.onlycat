@@ -45,6 +45,9 @@ OnlyCat® is a registered trademarks of [VirtualV Trading Ltd.](https://www.only
   Placeholder for the next version (at the beginning of the line):
   ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (copilot) Adapter requires node.js >= 22 now
+
 ### 0.5.4 (2026-02-09)
 
 * (Sickboy78) added removal of deleted or renamed devices and transit policies
